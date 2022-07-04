@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @umutjohn
+- Resnet 18 Random mini batch for MNIST Data set.
 - 👀 I’m interested in CFD and ML related projects
 - 🌱 I’m currently in METU Msc degree in Aerospace Engineering
 
